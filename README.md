@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CT08DS3406
 Domain: Python Programming
 Duration: July to August 2024
-Mentor: Santhosh Kumar
+Mentor: Neela Santhosh Kumar
 
 ## Project Overview: Library Management System
 
